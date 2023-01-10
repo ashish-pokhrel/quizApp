@@ -9,7 +9,7 @@
         android:layout_height="match_parent"
         android:layout_margin="10dp"
         android:orientation="vertical"
-        tools:context=".ui.result.ResultFragment">
+        tools:context="com.quizApp.quizappassignment7.ui.result.ResultFragment">
 
         <TextView
             android:id="@+id/totalQuestionsTv"
