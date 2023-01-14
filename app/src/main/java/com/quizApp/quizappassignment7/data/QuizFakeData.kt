@@ -10,6 +10,17 @@ class QuizFakeData {
             return mutableListOf(
                 Quiz(
                     1,
+                    "1. An open source standalone database is _____",
+                    IS_RADIO_BUTTON,
+                    "Android is a software package and linux based operating system for mobile devices such as tablet computers and smartphones.",
+                    "a",
+                    "an operating system",
+                    "",
+                    "",
+                    mutableListOf("an operating system","a web browser", "a web server", "None of the above")
+                ),
+                Quiz(
+                    1,
                     "1. Android is _____",
                     IS_RADIO_BUTTON,
                     "Android is a software package and linux based operating system for mobile devices such as tablet computers and smartphones.",
